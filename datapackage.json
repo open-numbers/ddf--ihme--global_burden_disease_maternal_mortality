@@ -1,0 +1,14 @@
+{
+    "name": "ddf--ihme--global_burden_disease_maternal_mortality",
+    "author": "Gapminder",
+    "description": "Global Burden of Disease Maternal mortality ratio",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "Global Burden of Disease Maternal mortality ratio",
+    "version": "0.0.1",
+    "resources": []
+}
