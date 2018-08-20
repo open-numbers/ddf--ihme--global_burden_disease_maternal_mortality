@@ -1,14 +1,691 @@
 {
     "name": "ddf--ihme--global_burden_disease_maternal_mortality",
-    "author": "Gapminder",
-    "description": "Global Burden of Disease Maternal mortality ratio",
     "language": {
         "name": "English",
         "id": "en"
     },
-    "translations": [],
+    "author": "Gapminder",
+    "description": "Global Burden of Disease Maternal mortality ratio",
     "license": "CC-BY-4.0",
     "title": "Global Burden of Disease Maternal mortality ratio",
+    "translations": [],
     "version": "0.0.1",
-    "resources": []
+    "created": "2018-08-20T07:22:24.905060+00:00",
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-366--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-366--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "366"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-367--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-367--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "367"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-368--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-368--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "368"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-369--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-369--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "369"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-370--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-370--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "370"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-371--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-371--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "371"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-375--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-375--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "375"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-376--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-376--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "376"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-379--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-379--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "379"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-741--year.csv",
+            "name": "ddf--datapoints--mmr_rate--by--location--sex--age--cause-741--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "cause",
+                        "constraints": {
+                            "enum": [
+                                "741"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "mmr_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "location",
+                    "sex",
+                    "age",
+                    "cause",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--age.csv",
+            "name": "ddf--entities--age",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "short_name"
+                    },
+                    {
+                        "name": "type"
+                    }
+                ],
+                "primaryKey": "age"
+            }
+        },
+        {
+            "path": "ddf--entities--cause.csv",
+            "name": "ddf--entities--cause",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "cause"
+                    },
+                    {
+                        "name": "label"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "medium_name"
+                    },
+                    {
+                        "name": "short_name"
+                    }
+                ],
+                "primaryKey": "cause"
+            }
+        },
+        {
+            "path": "ddf--entities--location.csv",
+            "name": "ddf--entities--location",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "short_name"
+                    },
+                    {
+                        "name": "medium_name"
+                    }
+                ],
+                "primaryKey": "location"
+            }
+        },
+        {
+            "path": "ddf--entities--rei.csv",
+            "name": "ddf--entities--rei",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "rei"
+                    },
+                    {
+                        "name": "type"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "short_name"
+                    }
+                ],
+                "primaryKey": "rei"
+            }
+        },
+        {
+            "path": "ddf--entities--sex.csv",
+            "name": "ddf--entities--sex",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": "sex"
+            }
+        }
+    ],
+    "ddfSchema": {
+        "concepts": [
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "concept_type",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "primaryKey": [
+                    "cause"
+                ],
+                "value": "label",
+                "resources": [
+                    "ddf--entities--cause"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "cause"
+                ],
+                "value": "medium_name",
+                "resources": [
+                    "ddf--entities--cause"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "location"
+                ],
+                "value": "medium_name",
+                "resources": [
+                    "ddf--entities--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--age"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "cause"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--cause"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "location"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "rei"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--rei"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "sex"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age"
+                ],
+                "value": "short_name",
+                "resources": [
+                    "ddf--entities--age"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "cause"
+                ],
+                "value": "short_name",
+                "resources": [
+                    "ddf--entities--cause"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "location"
+                ],
+                "value": "short_name",
+                "resources": [
+                    "ddf--entities--location"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "rei"
+                ],
+                "value": "short_name",
+                "resources": [
+                    "ddf--entities--rei"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "age"
+                ],
+                "value": "type",
+                "resources": [
+                    "ddf--entities--age"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "rei"
+                ],
+                "value": "type",
+                "resources": [
+                    "ddf--entities--rei"
+                ]
+            }
+        ],
+        "datapoints": [
+            {
+                "primaryKey": [
+                    "age",
+                    "cause",
+                    "location",
+                    "sex",
+                    "year"
+                ],
+                "value": "mmr_rate",
+                "resources": [
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-366--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-367--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-368--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-369--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-370--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-371--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-375--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-376--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-379--year",
+                    "ddf--datapoints--mmr_rate--by--location--sex--age--cause-741--year"
+                ]
+            }
+        ],
+        "synonyms": []
+    }
 }

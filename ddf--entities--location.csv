@@ -1,0 +1,436 @@
+location,name,short_name,medium_name
+1,Global,Earth,Global
+10,Cambodia,Cambodia,Cambodia
+100,High-income North America,HI N Am,High-income North America
+101,Canada,Canada,Canada
+102,United States,USA,United States
+103,Latin America and Caribbean,Latin Am & Caribbean,Latin America and Caribbean
+104,Caribbean,Caribbean,Caribbean
+105,Antigua and Barbuda,Antigua,Antigua and Barbuda
+106,The Bahamas,Bahamas,The Bahamas
+107,Barbados,Barbados,Barbados
+108,Belize,Belize,Belize
+109,Cuba,Cuba,Cuba
+11,Indonesia,Indonesia,Indonesia
+110,Dominica,Dominica,Dominica
+111,Dominican Republic,Dominican Rep,Dominican Republic
+112,Grenada,Grenada,Grenada
+113,Guyana,Guyana,Guyana
+114,Haiti,Haiti,Haiti
+115,Jamaica,Jamaica,Jamaica
+116,Saint Lucia,St Lucia,Saint Lucia
+117,Saint Vincent and the Grenadines,St Vincent,Saint Vincent and the Grenadines
+118,Suriname,Suriname,Suriname
+119,Trinidad and Tobago,Trinidad Tobago,Trinidad and Tobago
+12,Laos,Laos,Laos
+120,Andean Latin America,Andean Latin Am,Andean Latin America
+121,Bolivia,Bolivia,Bolivia
+122,Ecuador,Ecuador,Ecuador
+123,Peru,Peru,Peru
+124,Central Latin America,Central Latin Am,Central Latin America
+125,Colombia,Colombia,Colombia
+126,Costa Rica,Costa Rica,Costa Rica
+127,El Salvador,El Salvador,El Salvador
+128,Guatemala,Guatemala,Guatemala
+129,Honduras,Honduras,Honduras
+13,Malaysia,Malaysia,Malaysia
+130,Mexico,Mexico,Mexico
+131,Nicaragua,Nicaragua,Nicaragua
+132,Panama,Panama,Panama
+133,Venezuela,Venezuela,Venezuela
+134,Tropical Latin America,Trop Latin Am,Tropical Latin America
+135,Brazil,Brazil,Brazil
+136,Paraguay,Paraguay,Paraguay
+137,North Africa and Middle East,MENA,North Africa and Middle East
+138,North Africa and Middle East,MENA,North Africa and Middle East
+139,Algeria,Algeria,Algeria
+14,Maldives,Maldives,Maldives
+140,Bahrain,Bahrain,Bahrain
+141,Egypt,Egypt,Egypt
+142,Iran,Iran,Iran
+143,Iraq,Iraq,Iraq
+144,Jordan,Jordan,Jordan
+145,Kuwait,Kuwait,Kuwait
+146,Lebanon,Lebanon,Lebanon
+147,Libya,Libya,Libya
+148,Morocco,Morocco,Morocco
+149,Palestine,Palestine,Palestine
+15,Myanmar,Myanmar,Myanmar
+150,Oman,Oman,Oman
+151,Qatar,Qatar,Qatar
+152,Saudi Arabia,Saudi Arabia,Saudi Arabia
+153,Syria,Syria,Syria
+154,Tunisia,Tunisia,Tunisia
+155,Turkey,Turkey,Turkey
+156,United Arab Emirates,UAE,United Arab Emirates
+157,Yemen,Yemen,Yemen
+158,South Asia,S Asia,South Asia
+159,South Asia,S Asia,South Asia
+16,Philippines,Philippines,Philippines
+160,Afghanistan,Afghanistan,Afghanistan
+161,Bangladesh,Bangladesh,Bangladesh
+162,Bhutan,Bhutan,Bhutan
+163,India,India,India
+164,Nepal,Nepal,Nepal
+165,Pakistan,Pakistan,Pakistan
+166,Sub-Saharan Africa,Sub-Sah Africa,Sub-Saharan Africa
+167,Central Sub-Saharan Africa,C Sub-Sah Africa,Central Sub-Saharan Africa
+168,Angola,Angola,Angola
+169,Central African Republic,C African Rep,Central African Republic
+17,Sri Lanka,Sri Lanka,Sri Lanka
+170,Congo,Congo,Congo
+171,Democratic Republic of the Congo,Congo DR,Democratic Republic of the Congo
+172,Equatorial Guinea,Eq Guinea,Equatorial Guinea
+173,Gabon,Gabon,Gabon
+174,Eastern Sub-Saharan Africa,E Sub-Sah Africa,Eastern Sub-Saharan Africa
+175,Burundi,Burundi,Burundi
+176,Comoros,Comoros,Comoros
+177,Djibouti,Djibouti,Djibouti
+178,Eritrea,Eritrea,Eritrea
+179,Ethiopia,Ethiopia,Ethiopia
+18,Thailand,Thailand,Thailand
+180,Kenya,Kenya,Kenya
+181,Madagascar,Madagascar,Madagascar
+182,Malawi,Malawi,Malawi
+183,Mauritius,Mauritius,Mauritius
+184,Mozambique,Mozambique,Mozambique
+185,Rwanda,Rwanda,Rwanda
+186,Seychelles,Seychelles,Seychelles
+187,Somalia,Somalia,Somalia
+189,Tanzania,Tanzania,Tanzania
+19,Timor-Leste,Timor-Leste,Timor-Leste
+190,Uganda,Uganda,Uganda
+191,Zambia,Zambia,Zambia
+192,Southern Sub-Saharan Africa,S Sub-Sah Africa,Southern Sub-Saharan Africa
+193,Botswana,Botswana,Botswana
+194,Lesotho,Lesotho,Lesotho
+195,Namibia,Namibia,Namibia
+196,South Africa,S Africa,South Africa
+197,Swaziland,Swaziland,Swaziland
+198,Zimbabwe,Zimbabwe,Zimbabwe
+199,Western Sub-Saharan Africa,W Sub-Sah Africa,Western Sub-Saharan Africa
+20,Vietnam,Vietnam,Vietnam
+200,Benin,Benin,Benin
+201,Burkina Faso,Burkina Faso,Burkina Faso
+202,Cameroon,Cameroon,Cameroon
+203,Cape Verde,Cape Verde,Cape Verde
+204,Chad,Chad,Chad
+205,Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire
+206,The Gambia,Gambia,The Gambia
+207,Ghana,Ghana,Ghana
+208,Guinea,Guinea,Guinea
+209,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau
+21,Oceania,Oceania,Oceania
+210,Liberia,Liberia,Liberia
+211,Mali,Mali,Mali
+212,Mauritania,Mauritania,Mauritania
+213,Niger,Niger,Niger
+214,Nigeria,Nigeria,Nigeria
+215,Sao Tome and Principe,Sao Tome Principe,Sao Tome and Principe
+216,Senegal,Senegal,Senegal
+217,Sierra Leone,Sierra Leone,Sierra Leone
+218,Togo,Togo,Togo
+22,Fiji,Fiji,Fiji
+23,Kiribati,Kiribati,Kiribati
+239,East Asia & Pacific - WB,E Asia & Pac WB,East Asia & Pacific - WB
+24,Marshall Islands,Marshall,Marshall Islands
+240,Europe & Central Asia - WB,Europe & Cen Asia WB,Europe & Central Asia - WB
+241,Latin America & Caribbean - WB,Latin Am & Caribbean WB,Latin America & Caribbean - WB
+242,Sub-Saharan Africa - WB,Sub-Sah Africa WB,Sub-Saharan Africa - WB
+243,Middle East & North Africa - WB,MENA WB,Middle East & North Africa - WB
+244,South Asia - WB,S Asia WB,South Asia - WB
+25,Federated States of Micronesia,Micronesia,Federated States of Micronesia
+26,Papua New Guinea,PNG,Papua New Guinea
+27,Samoa,Samoa,Samoa
+28,Solomon Islands,Solomon,Solomon Islands
+29,Tonga,Tonga,Tonga
+298,American Samoa,Am Samoa,American Samoa
+30,Vanuatu,Vanuatu,Vanuatu
+305,Bermuda,Bermuda,Bermuda
+31,"Central Europe, Eastern Europe, and Central Asia",C & E Europe & C Asia,"Central Europe, Eastern Europe, and Central Asia"
+32,Central Asia,C Asia,Central Asia
+33,Armenia,Armenia,Armenia
+34,Azerbaijan,Azerbaijan,Azerbaijan
+349,Greenland,Greenland,Greenland
+35,Georgia,Georgia,Georgia
+351,Guam,Guam,Guam
+35424,Hokkaidō,Hokkaido,Hokkaidō
+35425,Aomori,Aomori,Aomori
+35426,Iwate,Iwate,Iwate
+35427,Miyagi,Miyagi,Miyagi
+35428,Akita,Akita,Akita
+35429,Yamagata,Yamagata,Yamagata
+35430,Fukushima,Fukushima,Fukushima
+35431,Ibaraki,Ibaraki,Ibaraki
+35432,Tochigi,Tochigi,Tochigi
+35433,Gunma,Gunma,Gunma
+35434,Saitama,Saitama,Saitama
+35435,Chiba,Chiba,Chiba
+35436,Tōkyō,Tokyo,Tōkyō
+35437,Kanagawa,Kanagawa,Kanagawa
+35438,Niigata,Niigata,Niigata
+35439,Toyama,Toyama,Toyama
+35440,Ishikawa,Ishikawa,Ishikawa
+35441,Fukui,Fukui,Fukui
+35442,Yamanashi,Yamanashi,Yamanashi
+35443,Nagano,Nagano,Nagano
+35444,Gifu,Gifu,Gifu
+35445,Shizuoka,Shizuoka,Shizuoka
+35446,Aichi,Aichi,Aichi
+35447,Mie,Mie,Mie
+35448,Shiga,Shiga,Shiga
+35449,Kyōto,Kyoto,Kyōto
+35450,Ōsaka,Osaka,Ōsaka
+35451,Hyōgo,Hyogo,Hyōgo
+35452,Nara,Nara,Nara
+35453,Wakayama,Wakayama,Wakayama
+35454,Tottori,Tottori,Tottori
+35455,Shimane,Shimane,Shimane
+35456,Okayama,Okayama,Okayama
+35457,Hiroshima,Hiroshima,Hiroshima
+35458,Yamaguchi,Yamaguchi,Yamaguchi
+35459,Tokushima,Tokushima,Tokushima
+35460,Kagawa,Kagawa,Kagawa
+35461,Ehime,Ehime,Ehime
+35462,Kōchi,Kochi,Kōchi
+35463,Fukuoka,Fukuoka,Fukuoka
+35464,Saga,Saga,Saga
+35465,Nagasaki,Nagasaki,Nagasaki
+35466,Kumamoto,Kumamoto,Kumamoto
+35467,Ōita,Oita,Ōita
+35468,Miyazaki,Miyazaki,Miyazaki
+35469,Kagoshima,Kagoshima,Kagoshima
+35470,Okinawa,Okinawa,Okinawa
+36,Kazakhstan,Kazakhstan,Kazakhstan
+37,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan
+376,Northern Mariana Islands,N Mariana,Northern Mariana Islands
+38,Mongolia,Mongolia,Mongolia
+385,Puerto Rico,Puerto Rico,Puerto Rico
+39,Tajikistan,Tajikistan,Tajikistan
+4,"Southeast Asia, East Asia, and Oceania",SE & E Asia & Oceania,"Southeast Asia, East Asia, and Oceania"
+40,Turkmenistan,Turkmenistan,Turkmenistan
+41,Uzbekistan,Uzbekistan,Uzbekistan
+42,Central Europe,C Europe,Central Europe
+422,"Virgin Islands, U.S.",Virgin Isl US,"Virgin Islands, U.S."
+43,Albania,Albania,Albania
+433,Northern Ireland,N Ireland,Northern Ireland
+434,Scotland,Scotland,Scotland
+435,South Sudan,S Sudan,South Sudan
+44,Bosnia and Herzegovina,Bosnia,Bosnia and Herzegovina
+44534,Commonwealth,Commonwealth,Commonwealth
+44535,Commonwealth High Income,Commonwealth HI,Commonwealth High Income
+44536,Commonwealth Middle Income,Commonwealth MI,Commonwealth Middle Income
+44537,Commonwealth Low Income,Commonwealth LI,Commonwealth Low Income
+44559,Africa,Africa,Africa
+44560,America,America,America
+44561,Asia,Asia,Asia
+44562,Europe,Europe,Europe
+44563,African Region,Afr Region,African Region
+44564,Region of the Americas,Region Americas,Region of the Americas
+44565,South-East Asia Region,SE Asia Region,South-East Asia Region
+44566,European Region,Europe Region,European Region
+44567,Eastern Mediterranean Region,E Med Region,Eastern Mediterranean Region
+44568,Western Pacific Region,W Pac Region,Western Pacific Region
+44575,World Bank High Income,WB HI,World Bank High Income
+44576,World Bank Upper Middle Income,WB UMI,World Bank Upper Middle Income
+44577,World Bank Lower Middle Income,WB LMI,World Bank Lower Middle Income
+44578,World Bank Low Income,WB LI,World Bank Low Income
+44584,OECD Countries,OECD,OECD Countries
+44586,G20,G20,G20
+44587,African Union,AU,African Union
+44590,Four World Regions,4 World Regions,Four World Regions
+44591,World Bank Income Levels,WB Income,World Bank Income Levels
+44634,High-middle SDI,High Mid SDI,High-middle SDI
+44635,High SDI,High SDI,High SDI
+44636,Low-middle SDI,Low Mid SDI,Low-middle SDI
+44637,Low SDI,Low SDI,Low SDI
+44638,North America,N America,North America
+44639,Middle SDI,Mid SDI,Middle SDI
+44642,Nordic Region,Nordic Region,Nordic Region
+45,Bulgaria,Bulgaria,Bulgaria
+46,Croatia,Croatia,Croatia
+4618,North East England,NE England,North East England
+4619,North West England,NW England,North West England
+4620,Yorkshire and the Humber,Yorkshire & Humber,Yorkshire and the Humber
+4621,East Midlands,E Midlands,East Midlands
+4622,West Midlands,W Midlands,West Midlands
+4623,East of England,E England,East of England
+4624,Greater London,Greater London,Greater London
+4625,South East England,SE England,South East England
+4626,South West England,SW England,South West England
+4636,Wales,Wales,Wales
+4643,Aguascalientes,Aguascalientes,Aguascalientes
+4644,Baja California,Baja CA,Baja California
+4645,Baja California Sur,Baja CA Sur,Baja California Sur
+4646,Campeche,Campeche,Campeche
+4647,Coahuila,Coahuila,Coahuila
+4648,Colima,Colima,Colima
+4649,Chiapas,Chiapas,Chiapas
+4650,Chihuahua,Chihuahua,Chihuahua
+4651,Mexico City,Mexico City,Mexico City
+4652,Durango,Durango,Durango
+4653,Guanajuato,Guanajuato,Guanajuato
+4654,Guerrero,Guerrero,Guerrero
+4655,Hidalgo,Hidalgo,Hidalgo
+4656,Jalisco,Jalisco,Jalisco
+4657,México,Mexico,México
+4658,Michoacán de Ocampo,Michoacan,Michoacán de Ocampo
+4659,Morelos,Morelos,Morelos
+4660,Nayarit,Nayarit,Nayarit
+4661,Nuevo León,Nuevo Leon,Nuevo León
+4662,Oaxaca,Oaxaca,Oaxaca
+4663,Puebla,Puebla,Puebla
+4664,Querétaro,Queretaro,Querétaro
+4665,Quintana Roo,Quintana Roo,Quintana Roo
+4666,San Luis Potosí,San Luis Potosi,San Luis Potosí
+4667,Sinaloa,Sinaloa,Sinaloa
+4668,Sonora,Sonora,Sonora
+4669,Tabasco,Tabasco,Tabasco
+4670,Tamaulipas,Tamaulipas,Tamaulipas
+4671,Tlaxcala,Tlaxcala,Tlaxcala
+4672,Veracruz de Ignacio de la Llave,Veracruz,Veracruz de Ignacio de la Llave
+4673,Yucatán,Yucatan,Yucatán
+4674,Zacatecas,Zacatecas,Zacatecas
+47,Czech Republic,Czech,Czech Republic
+4743,European Union,EU,European Union
+4749,England,England,England
+4750,Acre,Acre,Acre
+4751,Alagoas,Alagoas,Alagoas
+4752,Amazonas,Amazonas,Amazonas
+4753,Amapá,Amapa,Amapá
+4754,Bahia,Bahia,Bahia
+4755,Ceará,Ceara,Ceará
+4756,Distrito Federal,Distrito Federal,Distrito Federal
+4757,Espírito Santo,Espirito Santo,Espírito Santo
+4758,Goiás,Goias,Goiás
+4759,Maranhão,Maranhao,Maranhão
+4760,Minas Gerais,Minas Gerais,Minas Gerais
+4761,Mato Grosso do Sul,Mato Grosso do Sul,Mato Grosso do Sul
+4762,Mato Grosso,Mato Grosso,Mato Grosso
+4763,Pará,Para,Pará
+4764,Paraíba,Paraiba,Paraíba
+4765,Paraná,Parana,Paraná
+4766,Pernambuco,Pernambuco,Pernambuco
+4767,Piaui,Piaui,Piaui
+4768,Rio de Janeiro,Rio de Janeiro,Rio de Janeiro
+4769,Rio Grande do Norte,Rio Grande do Norte,Rio Grande do Norte
+4770,Rondônia,Rondonia,Rondônia
+4771,Roraima,Roraima,Roraima
+4772,Rio Grande do Sul,Rio Grande do Sul,Rio Grande do Sul
+4773,Santa Catarina,Santa Catarina,Santa Catarina
+4774,Sergipe,Sergipe,Sergipe
+4775,São Paulo,Sao Paulo,São Paulo
+4776,Tocantins,Tocantins,Tocantins
+478,World Bank Regions,WB Region,World Bank Regions
+479,WHO region,WHO Region,WHO region
+48,Hungary,Hungary,Hungary
+49,Macedonia,Macedonia,Macedonia
+4940,Sweden except Stockholm,Sweden w/o Stockholm,Sweden except Stockholm
+4944,Stockholm,Stockholm,Stockholm
+5,East Asia,E Asia,East Asia
+50,Montenegro,Montenegro,Montenegro
+51,Poland,Poland,Poland
+52,Romania,Romania,Romania
+522,Sudan,Sudan,Sudan
+523,Alabama,Alabama,Alabama
+524,Alaska,Alaska,Alaska
+525,Arizona,Arizona,Arizona
+526,Arkansas,Arkansas,Arkansas
+527,California,California,California
+528,Colorado,Colorado,Colorado
+529,Connecticut,Connecticut,Connecticut
+53,Serbia,Serbia,Serbia
+530,Delaware,Delaware,Delaware
+531,District of Columbia,DC,District of Columbia
+532,Florida,Florida,Florida
+533,Georgia,Georgia,Georgia
+534,Hawaii,Hawaii,Hawaii
+535,Idaho,Idaho,Idaho
+536,Illinois,Illinois,Illinois
+537,Indiana,Indiana,Indiana
+538,Iowa,Iowa,Iowa
+539,Kansas,Kansas,Kansas
+54,Slovakia,Slovakia,Slovakia
+540,Kentucky,Kentucky,Kentucky
+541,Louisiana,Louisiana,Louisiana
+542,Maine,Maine,Maine
+543,Maryland,Maryland,Maryland
+544,Massachusetts,Massachusetts,Massachusetts
+545,Michigan,Michigan,Michigan
+546,Minnesota,Minnesota,Minnesota
+547,Mississippi,Mississippi,Mississippi
+548,Missouri,Missouri,Missouri
+549,Montana,Montana,Montana
+55,Slovenia,Slovenia,Slovenia
+550,Nebraska,Nebraska,Nebraska
+551,Nevada,Nevada,Nevada
+552,New Hampshire,New Hampshire,New Hampshire
+553,New Jersey,New Jersey,New Jersey
+554,New Mexico,New Mexico,New Mexico
+555,New York,New York,New York
+556,North Carolina,N Carolina,North Carolina
+557,North Dakota,N Dakota,North Dakota
+558,Ohio,Ohio,Ohio
+559,Oklahoma,Oklahoma,Oklahoma
+56,Eastern Europe,E Europe,Eastern Europe
+560,Oregon,Oregon,Oregon
+561,Pennsylvania,Pennsylvania,Pennsylvania
+562,Rhode Island,Rhode Island,Rhode Island
+563,South Carolina,S Carolina,South Carolina
+564,South Dakota,S Dakota,South Dakota
+565,Tennessee,Tennessee,Tennessee
+566,Texas,Texas,Texas
+567,Utah,Utah,Utah
+568,Vermont,Vermont,Vermont
+569,Virginia,Virginia,Virginia
+57,Belarus,Belarus,Belarus
+570,Washington,Washington,Washington
+571,West Virginia,W Virginia,West Virginia
+572,Wisconsin,Wisconsin,Wisconsin
+573,Wyoming,Wyoming,Wyoming
+58,Estonia,Estonia,Estonia
+59,Latvia,Latvia,Latvia
+6,China,China,China
+60,Lithuania,Lithuania,Lithuania
+61,Moldova,Moldova,Moldova
+62,Russian Federation,Russian Federation,Russian Federation
+63,Ukraine,Ukraine,Ukraine
+64,High-income,HI,High-income
+65,High-income Asia Pacific,HI Asia Pac,High-income Asia Pacific
+66,Brunei,Brunei,Brunei
+67,Japan,Japan,Japan
+68,South Korea,S Korea,South Korea
+69,Singapore,Singapore,Singapore
+7,North Korea,N Korea,North Korea
+70,Australasia,Australasia,Australasia
+71,Australia,Australia,Australia
+72,New Zealand,New Zealand,New Zealand
+73,Western Europe,W Europe,Western Europe
+74,Andorra,Andorra,Andorra
+75,Austria,Austria,Austria
+76,Belgium,Belgium,Belgium
+77,Cyprus,Cyprus,Cyprus
+78,Denmark,Denmark,Denmark
+79,Finland,Finland,Finland
+8,Taiwan,Taiwan,Taiwan
+80,France,France,France
+81,Germany,Germany,Germany
+82,Greece,Greece,Greece
+83,Iceland,Iceland,Iceland
+84,Ireland,Ireland,Ireland
+85,Israel,Israel,Israel
+86,Italy,Italy,Italy
+87,Luxembourg,Luxembourg,Luxembourg
+88,Malta,Malta,Malta
+89,Netherlands,Netherlands,Netherlands
+9,Southeast Asia,SE Asia,Southeast Asia
+90,Norway,Norway,Norway
+91,Portugal,Portugal,Portugal
+92,Spain,Spain,Spain
+93,Sweden,Sweden,Sweden
+94,Switzerland,Switzerland,Switzerland
+95,United Kingdom,UK,United Kingdom
+96,Southern Latin America,S Latin Am,Southern Latin America
+97,Argentina,Argentina,Argentina
+98,Chile,Chile,Chile
+99,Uruguay,Uruguay,Uruguay

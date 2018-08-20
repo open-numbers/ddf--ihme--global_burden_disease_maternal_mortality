@@ -1,0 +1,145 @@
+rei,type,name,short_name
+100,risk,Secondhand smoke,Secondhand smoke
+101,risk,Alcohol and drug use,Alcohol & drug use
+102,risk,Alcohol use,Alcohol use
+103,risk,Drug use,Drug use
+104,risk,Metabolic risks,Metabolic
+105,risk,High fasting plasma glucose,High fasting plasma glucose
+106,risk,High total cholesterol,High total cholesterol
+107,risk,High systolic blood pressure,High blood pressure
+108,risk,High body-mass index,High body-mass index
+109,risk,Low bone mineral density,Low bone mineral density
+110,risk,Dietary risks,Dietary risks
+111,risk,Diet low in fruits,Low fruit
+112,risk,Diet low in vegetables,Low vegetables
+113,risk,Diet low in whole grains,Low whole grains
+114,risk,Diet low in nuts and seeds,Low nuts and seeds
+115,risk,Diet low in milk,Low milk
+116,risk,Diet high in red meat,High red meat
+117,risk,Diet high in processed meat,High processed meat
+118,risk,Diet high in sugar-sweetened beverages,High sweetened beverages
+119,risk,Diet low in fiber,Low fiber
+121,risk,Diet low in seafood omega-3 fatty acids,Low omega-3
+122,risk,Diet low in polyunsaturated fatty acids,Low PUFA
+123,risk,Diet high in trans fatty acids,High trans fat
+124,risk,Diet high in sodium,High sodium
+125,risk,Low physical activity,Low physical activity
+126,risk,Occupational risks,Occupational risks
+127,risk,Occupational carcinogens,Occupational carcinogens
+128,risk,Occupational asthmagens,Occupational asthmagens
+129,risk,"Occupational particulate matter, gases, and fumes",Occupational particulates
+130,risk,Occupational noise,Occupational noise
+131,risk,Occupational injuries,Occupational injury
+132,risk,Occupational ergonomic factors,Occupational ergonomic
+133,risk,Sexual abuse and violence,Sexual abuse & violence
+134,risk,Childhood sexual abuse,Childhood sexual abuse
+135,risk,Intimate partner violence,Intimate partner violence
+136,risk,Non-exclusive breastfeeding,Partial breastfeeding
+137,risk,Discontinued breastfeeding,Discontinued breastfeeding
+147,risk,Diet low in calcium,Low calcium
+150,risk,Occupational exposure to asbestos,Occupational asbestos
+151,risk,Occupational exposure to arsenic,Occupational arsenic
+152,risk,Occupational exposure to benzene,Occupational benzene
+153,risk,Occupational exposure to beryllium,Occupational beryllium
+154,risk,Occupational exposure to cadmium,Occupational cadmium
+155,risk,Occupational exposure to chromium,Occupational chromium
+156,risk,Occupational exposure to diesel engine exhaust,Occupational diesel
+157,risk,Occupational exposure to secondhand smoke,Occupational SHS
+158,risk,Occupational exposure to formaldehyde,Occupational formaldehyde
+159,risk,Occupational exposure to nickel,Occupational nickel
+160,risk,Occupational exposure to polycyclic aromatic hydrocarbons,Occupational PAH
+161,risk,Occupational exposure to silica,Occupational silica
+162,risk,Occupational exposure to sulfuric acid,Occupational sulfuric acid
+169,risk,All risk factors,All risk factors
+170,risk,Unsafe sex,Unsafe sex
+171,etiology,Etiologies,Etiologies
+172,etiology,Diarrheal disease etiologies,Diarrhea etiologies
+173,etiology,Cholera,Cholera
+174,etiology,Other salmonella infections,Salmonella
+175,etiology,Shigellosis,Shigellosis
+176,etiology,Enteropathogenic E coli infection,Enteropathogenic E coli
+177,etiology,Enterotoxigenic E coli infection,Enterotoxigenic E coli
+178,etiology,Campylobacter enteritis,Campylobacter enteritis
+179,etiology,Amoebiasis,Amoebiasis
+180,etiology,Cryptosporidiosis,Cryptosporidiosis
+181,etiology,Rotaviral enteritis,Rotaviral enteritis
+182,etiology,Aeromonas,Aeromonas
+183,etiology,Clostridium difficile,Clostridium difficile
+184,etiology,Norovirus,Norovirus
+185,etiology,Adenovirus,Adenovirus
+186,etiology,Lower respiratory infection etiologies,LRI etiologies
+187,etiology,Influenza,Influenza
+188,etiology,Pneumococcal pneumonia,Pneumococcal pneumonia
+189,etiology,H influenzae type B pneumonia,HiB pneumonia
+190,etiology,Respiratory syncytial virus pneumonia,RSV pneumonia
+191,impairment,Impairments,Impairments
+192,impairment,Anemia,Anemia
+193,impairment,Epilepsy,Epilepsy
+194,impairment,Guillain-Barré syndrome,Guillain-Barré syndrome
+195,impairment,Hearing loss,Hearing loss
+196,impairment,Heart failure,Heart failure
+197,impairment,Developmental intellectual disability,Intellectual disability
+198,impairment,Infertility,Infertility
+199,impairment,Pelvic inflammatory disease,Pelvic inflammatory
+200,impairment,Blindness and vision impairment,Blindness
+202,risk,Environmental/occupational risks,Environmental
+203,risk,Behavioral risks,Behavioral
+205,impairment,Mild anemia,Mild anemia
+206,impairment,Moderate anemia,Moderate anemia
+207,impairment,Severe anemia,Severe anemia
+208,impairment,Treated epilepsy,Treated epilepsy
+209,impairment,Moderate epilepsy,Moderate epilepsy
+210,impairment,Severe epilepsy,Severe epilepsy
+211,impairment,Mild hearing loss,Mild hearing loss
+212,impairment,Moderate hearing loss,Moderate hearing loss
+213,impairment,Moderately severe hearing loss,Moderately severe hearing loss
+214,impairment,Severe hearing loss,Severe hearing loss
+215,impairment,Profound hearing loss,Profound hearing loss
+216,impairment,Complete hearing loss,Complete hearing loss
+217,impairment,Mild heart failure,Mild heart failure
+218,impairment,Moderate heart failure,Moderate heart failure
+219,impairment,Severe heart failure,Severe heart failure
+220,impairment,Primary infertility,Primary infertility
+221,impairment,Secondary infertility,Secondary infertility
+222,impairment,Mild intellectual disability,Mild intellectual disability
+223,impairment,Moderate intellectual disability,Moderate intellectual disability
+224,impairment,Severe intellectual disability,Severe intellectual disability
+225,impairment,Profound intellectual disability,Profound intellectual disability
+226,impairment,Moderate pelvic inflammatory disease,Moderate pelvic inflammatory disease
+227,impairment,Severe pelvic inflammatory disease,Severe pelvic inflammatory disease
+228,impairment,Mild vision loss,Mild vision loss
+229,impairment,Moderate vision loss,Moderate vision loss
+230,impairment,Severe vision loss,Severe vision loss
+231,impairment,Blindness,Blindness
+232,impairment,Monocular vision loss,Monocular vision loss
+233,impairment,Presbyopia,Presbyopia
+236,impairment,Borderline intellectual disability,Borderline intellectual disability
+237,risk,Occupational exposure to trichloroethylene,Occupational trichloroethylene
+238,risk,No access to handwashing facility,Handwashing
+239,risk,Child growth failure,Child growth failure
+240,risk,Child wasting,Child wasting
+241,risk,Child stunting,Child stunting
+332,risk,Smokeless tobacco,Smokeless tobacco
+333,risk,Diet low in legumes,Low legumes
+334,risk,Short gestation for birth weight,Short gestation
+335,risk,Low birth weight for gestation,Low birth weight
+339,risk,Low birth weight and short gestation,Low birth weight & short gestation
+341,risk,Impaired kidney function,Impaired kidney function
+82,risk,"Unsafe water, sanitation, and handwashing",WaSH
+83,risk,Unsafe water source,Unsafe water
+84,risk,Unsafe sanitation,Unsafe sanitation
+85,risk,Air pollution,Air pollution
+86,risk,Ambient particulate matter pollution,Ambient particulate matter
+87,risk,Household air pollution from solid fuels,Household air pollution
+88,risk,Ambient ozone pollution,Ozone
+89,risk,Other environmental risks,Other environmental
+90,risk,Residential radon,Radon
+91,risk,Lead exposure,Lead
+92,risk,Child and maternal malnutrition,Malnutrition
+93,risk,Suboptimal breastfeeding,Suboptimal breastfeeding
+94,risk,Child underweight,Child underweight
+95,risk,Iron deficiency,Iron deficiency
+96,risk,Vitamin A deficiency,Vitamin A deficiency
+97,risk,Zinc deficiency,Zinc deficiency
+98,risk,Tobacco,Tobacco
+99,risk,Smoking,Smoking

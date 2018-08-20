@@ -1,0 +1,32 @@
+concept,name,concept_type
+deaths_number,Deaths Number,measure
+deaths_percent,Deaths Percent,measure
+deaths_rate,Deaths Rate,measure
+dalys_number,DALYs Number,measure
+dalys_percent,DALYs Percent,measure
+dalys_rate,DALYs Rate,measure
+ylds_number,YLDs Number,measure
+ylds_percent,YLDs Percent,measure
+ylds_rate,YLDs Rate,measure
+ylls_number,YLLs Number,measure
+ylls_percent,YLLs Percent,measure
+ylls_rate,YLLs Rate,measure
+prevalence_number,Prevalence Number,measure
+prevalence_percent,Prevalence Percent,measure
+prevalence_rate,Prevalence Rate,measure
+incidence_number,Incidence Number,measure
+incidence_percent,Incidence Percent,measure
+incidence_rate,Incidence Rate,measure
+mmr_rate,MMR Rate,measure
+age,Age,entity_domain
+cause,Cause,entity_domain
+label,Label,string
+location,Location,entity_domain
+long_name,Long Name,string
+medium_name,Medium Name,string
+name,Name,string
+rei,Risk/Etiology/Impairment,entity_domain
+sex,Sex,entity_domain
+short_name,Short Name,string
+type,Type,string
+year,Year,time

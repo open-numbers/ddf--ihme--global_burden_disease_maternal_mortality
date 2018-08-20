@@ -1,0 +1,336 @@
+cause,label,name,medium_name,short_name
+294,Total,All causes,All causes,All causes
+295,A,"Communicable, maternal, neonatal, and nutritional diseases",Group I,Group I
+296,A.1,HIV/AIDS and tuberculosis,HIV/AIDS & tuberculosis,HIV+TB
+297,A.1.1,Tuberculosis,Tuberculosis,TB
+298,A.1.2,HIV/AIDS,HIV/AIDS,HIV
+300,A.1.2.4,HIV/AIDS resulting in other diseases,HIV/AIDS other,Oth HIV
+301,A.2,"Diarrhea, lower respiratory, and other common infectious diseases",Diarrhea/LRI/other,Diar+LRI+Oth
+302,A.2.1,Diarrheal diseases,Diarrheal diseases,Diarrhea
+318,A.2.2,Intestinal infectious diseases,Intestinal infectious,Intest Inf
+319,A.2.2.1,Typhoid fever,Typhoid fever,Typhoid
+320,A.2.2.2,Paratyphoid fever,Paratyphoid fever,Paratyph
+321,A.2.2.3,Other intestinal infectious diseases,Other intestinal infect,Oth Intest
+322,A.2.3,Lower respiratory infections,Lower respiratory infect,LRI
+328,A.2.4,Upper respiratory infections,Upper respiratory infect,URI
+329,A.2.5,Otitis media,Otitis media,Otitis
+332,A.2.6,Meningitis,Meningitis,Meningitis
+333,A.2.6.1,Pneumococcal meningitis,Pneumo meningitis,Mng Pne
+334,A.2.6.2,H influenzae type B meningitis,HIB meningitis,Mng HiB
+335,A.2.6.3,Meningococcal meningitis,Meningo meningitis,Mng Men
+336,A.2.6.4,Other meningitis,Other meningitis,Oth Mng
+337,A.2.7,Encephalitis,Encephalitis,Encepha
+338,A.2.8,Diphtheria,Diphtheria,Diphtheria
+339,A.2.9,Whooping cough,Whooping cough,Whooping
+340,A.2.10,Tetanus,Tetanus,Tetanus
+341,A.2.11,Measles,Measles,Measles
+342,A.2.12,Varicella and herpes zoster,Varicella,Varicella
+344,A.3,Neglected tropical diseases and malaria,NTDs & malaria,NTD+Malaria
+345,A.3.1,Malaria,Malaria,Malaria
+346,A.3.2,Chagas disease,Chagas disease,Chagas
+347,A.3.3,Leishmaniasis,Leishmaniasis,Leish
+348,A.3.3.1,Visceral leishmaniasis,Visceral leishmaniasis,Vis Leish
+349,A.3.3.2,Cutaneous and mucocutaneous leishmaniasis,Cutaneous leishmaniasis,Cut Leish
+350,A.3.4,African trypanosomiasis,African trypanosomiasis,Afr Tryp
+351,A.3.5,Schistosomiasis,Schistosomiasis,Schisto
+352,A.3.6,Cysticercosis,Cysticercosis,Cysticer
+353,A.3.7,Cystic echinococcosis,Cystic echinococcosis,Echino
+354,A.3.8,Lymphatic filariasis,Lymphatic filariasis,LF
+355,A.3.9,Onchocerciasis,Onchocerciasis,Oncho
+356,A.3.10,Trachoma,Trachoma,Trachoma
+357,A.3.11,Dengue,Dengue,Dengue
+358,A.3.12,Yellow fever,Yellow fever,Yellow Fev
+359,A.3.13,Rabies,Rabies,Rabies
+360,A.3.14,Intestinal nematode infections,Intestinal nematode,Nematode
+361,A.3.14.1,Ascariasis,Ascariasis,Ascaria
+362,A.3.14.2,Trichuriasis,Trichuriasis,Trichuria
+363,A.3.14.3,Hookworm disease,Hookworm disease,Hookworm
+364,A.3.15,Food-borne trematodiases,Food-borne trematodiases,FB Trema
+365,A.3.20,Other neglected tropical diseases,Other NTDs,Oth NTD
+366,A.4,Maternal disorders,Maternal disorders,Maternal
+367,A.4.1,Maternal hemorrhage,Maternal hemorrhage,Mat Hem
+368,A.4.2,Maternal sepsis and other maternal infections,Maternal sepsis,Mat Sepsis
+369,A.4.3,Maternal hypertensive disorders,Maternal hypertension,Mat HTN
+370,A.4.4,Maternal obstructed labor and uterine rupture,Obstructed labor,Obst Labor
+371,A.4.5,"Maternal abortion, miscarriage, and ectopic pregnancy",Complication abort,Comp Abort
+375,A.4.6,Indirect maternal deaths,Maternal indirect,Mat Indir
+376,A.4.7,Late maternal deaths,Maternal late,Mat Late
+379,A.4.9,Other maternal disorders,Other maternal disorders,Oth Mat
+380,A.5,Neonatal disorders,Neonatal disorders,Neonatal
+381,A.5.1,Neonatal preterm birth,Neonatal preterm birth,NN Preterm
+382,A.5.2,Neonatal encephalopathy due to birth asphyxia and trauma,Neonatal encephalopathy,NN Enceph
+383,A.5.3,Neonatal sepsis and other neonatal infections,Neonatal sepsis,NN Sepsis
+384,A.5.4,Hemolytic disease and other neonatal jaundice,Neonatal hemolytic,NN Hemol
+385,A.5.5,Other neonatal disorders,Other neonatal,Oth NN
+386,A.6,Nutritional deficiencies,Nutritional deficiencies,Nutr Def
+387,A.6.1,Protein-energy malnutrition,Protein-energy malnutrition,PEM
+388,A.6.2,Iodine deficiency,Iodine deficiency,Iodine
+389,A.6.3,Vitamin A deficiency,Vitamin A deficiency,Vit A
+390,A.6.4,Dietary iron deficiency,Dietary iron deficiency,Iron
+391,A.6.5,Other nutritional deficiencies,Other nutritional,Oth Nutr
+392,A.7,"Other communicable, maternal, neonatal, and nutritional diseases",Other group I,Oth Group I
+393,A.7.1,Sexually transmitted diseases excluding HIV,STDs,STD
+394,A.7.1.1,Syphilis,Syphilis,Syphilis
+395,A.7.1.2,Chlamydial infection,Chlamydia,Chlamydia
+396,A.7.1.3,Gonococcal infection,Gonorrhea,Gonorrhea
+397,A.7.1.4,Trichomoniasis,Trichomoniasis,Trich
+398,A.7.1.5,Genital herpes,Genital herpes,Herpes
+399,A.7.1.6,Other sexually transmitted diseases,Other STDs,Oth STD
+400,A.7.2,Acute hepatitis,Acute hepatitis,Hep
+401,A.7.2.1,Acute hepatitis A,Acute hepatitis A,Hep A
+402,A.7.2.2,Acute hepatitis B,Acute hepatitis B,Hep B
+403,A.7.2.3,Acute hepatitis C,Acute hepatitis C,Hep C
+404,A.7.2.4,Acute hepatitis E,Acute hepatitis E,Hep E
+405,A.3.16,Leprosy,Leprosy,Leprosy
+408,A.7.3,Other unspecified infectious diseases,Other unspecified infectious,Oth Un Inf
+409,B,Non-communicable diseases,Non-communicable,NCD
+410,B.1,Neoplasms,Neoplasms,Neoplasms
+411,B.1.4,Esophageal cancer,Esophageal cancer,Esophag C
+414,B.1.5,Stomach cancer,Stomach cancer,Stomach C
+417,B.1.7,Liver cancer,Liver cancer,Liver C
+418,B.1.7.1,Liver cancer due to hepatitis B,Liver cancer hepatitis B,Liver C HepB
+419,B.1.7.2,Liver cancer due to hepatitis C,Liver cancer hepatitis C,Liver C HepC
+420,B.1.7.3,Liver cancer due to alcohol use,Liver cancer alcohol,Liver C Alc
+421,B.1.7.4,Liver cancer due to other causes,Liver cancer other,Oth Liver C
+423,B.1.10,Larynx cancer,Larynx cancer,Larynx C
+426,B.1.11,"Tracheal, bronchus, and lung cancer",Lung cancer,Lung C
+429,B.1.14,Breast cancer,Breast cancer,Breast C
+432,B.1.15,Cervical cancer,Cervical cancer,Cervix C
+435,B.1.16,Uterine cancer,Uterine cancer,Uterus C
+438,B.1.18,Prostate cancer,Prostate cancer,Prostate C
+441,B.1.6,Colon and rectum cancer,Colorectal cancer,Colorect C
+444,B.1.1,Lip and oral cavity cancer,Lip oral cavity cancer,Lip Oral C
+447,B.1.2,Nasopharynx cancer,Nasopharynx cancer,Nasoph C
+450,B.1.3,Other pharynx cancer,Other pharynx cancer,Oth Phar C
+453,B.1.8,Gallbladder and biliary tract cancer,Gallbladder cancer,Gallblad C
+456,B.1.9,Pancreatic cancer,Pancreatic cancer,Pancreas C
+459,B.1.12,Malignant skin melanoma,Melanoma,Melanoma
+462,B.1.13,Non-melanoma skin cancer,Skin cancer,Skin C
+465,B.1.17,Ovarian cancer,Ovarian cancer,Ovary C
+468,B.1.19,Testicular cancer,Testicular cancer,Testis C
+471,B.1.20,Kidney cancer,Kidney cancer,Kidney C
+474,B.1.21,Bladder cancer,Bladder cancer,Bladder C
+477,B.1.22,Brain and nervous system cancer,Brain cancer,Brain C
+480,B.1.23,Thyroid cancer,Thyroid cancer,Thyroid C
+483,B.1.24,Mesothelioma,Mesothelioma,Mesothel
+484,B.1.25,Hodgkin lymphoma,Hodgkin lymphoma,Hodgkin
+485,B.1.26,Non-Hodgkin lymphoma,Lymphoma,Lymphoma
+486,B.1.27,Multiple myeloma,Myeloma,Myeloma
+487,B.1.28,Leukemia,Leukemia,Leukemia
+488,B.1.29,Other neoplasms,Other neoplasms,Oth Neopla
+491,B.2,Cardiovascular diseases,Cardiovascular diseases,CVD
+492,B.2.1,Rheumatic heart disease,Rheumatic heart disease,RHD
+493,B.2.2,Ischemic heart disease,Ischemic heart disease,IHD
+494,B.2.3,Stroke,Stroke,Stroke
+495,B.2.3.1,Ischemic stroke,Ischemic stroke,Isch Stroke
+496,B.2.3.2,Intracerebral hemorrhage,Intracerebral hem,Intrahem Stroke
+498,B.2.4,Hypertensive heart disease,Hypertensive heart disease,HTN HD
+499,B.2.5,Cardiomyopathy and myocarditis,Cardiomyopathy,CMP
+500,B.2.6,Atrial fibrillation and flutter,Atrial fibrillation,A Fib
+501,B.2.7,Aortic aneurysm,Aortic aneurysm,Aort An
+502,B.2.8,Peripheral artery disease,Peripheral artery,PAD
+503,B.2.9,Endocarditis,Endocarditis,Endocar
+507,B.2.10,Other cardiovascular and circulatory diseases,Other cardiovascular,Oth Cardio
+508,B.3,Chronic respiratory diseases,Chronic respiratory,Chr Resp
+509,B.3.1,Chronic obstructive pulmonary disease,COPD,COPD
+510,B.3.2,Pneumoconiosis,Pneumoconiosis,Pneumocon
+511,B.3.2.1,Silicosis,Silicosis,Silicosis
+512,B.3.2.2,Asbestosis,Asbestosis,Asbestosis
+513,B.3.2.3,Coal workers pneumoconiosis,Coal workers,Coal W
+514,B.3.2.4,Other pneumoconiosis,Other pneumoconiosis,Oth Pneum
+515,B.3.3,Asthma,Asthma,Asthma
+516,B.3.4,Interstitial lung disease and pulmonary sarcoidosis,Interstitial lung disease,ILD
+520,B.3.5,Other chronic respiratory diseases,Other chronic respiratory,Oth Resp
+521,B.4,Cirrhosis and other chronic liver diseases,Cirrhosis,Cirrhosis
+522,B.4.1,Cirrhosis and other chronic liver diseases due to hepatitis B,Cirrhosis hepatitis B,Cirr HepB
+523,B.4.2,Cirrhosis and other chronic liver diseases due to hepatitis C,Cirrhosis hepatitis C,Cirr HepC
+524,B.4.3,Cirrhosis and other chronic liver diseases due to alcohol use,Cirrhosis alcohol,Cirr Alc
+525,B.4.4,Cirrhosis and other chronic liver diseases due to other causes,Cirrhosis other,Oth Cirr
+526,B.5,Digestive diseases,Digestive diseases,Digestive
+527,B.5.1,Peptic ulcer disease,Peptic ulcer disease,PUD
+528,B.5.2,Gastritis and duodenitis,Gastritis & duodenitis,Gastritis
+529,B.5.3,Appendicitis,Appendicitis,Appendicit
+530,B.5.4,Paralytic ileus and intestinal obstruction,Ileus & obstruction,Ileus
+531,B.5.5,"Inguinal, femoral, and abdominal hernia",Hernia,Hernia
+532,B.5.6,Inflammatory bowel disease,Inflammatory bowel,IBD
+533,B.5.7,Vascular intestinal disorders,Vascular intestinal,Vasc Intest
+534,B.5.8,Gallbladder and biliary diseases,Gallbladder & biliary,Gall Bile
+535,B.5.9,Pancreatitis,Pancreatitis,Pancreatit
+541,B.5.10,Other digestive diseases,Other digestive,Oth Digest
+542,B.6,Neurological disorders,Neurological disorders,Neuro
+543,B.6.1,Alzheimer disease and other dementias,Alzheimer disease,Alzheimer
+544,B.6.2,Parkinson disease,Parkinson disease,Parkinson
+545,B.6.3,Epilepsy,Epilepsy,Epilepsy
+546,B.6.4,Multiple sclerosis,Multiple sclerosis,MS
+547,B.6.6,Migraine,Migraine,Migraine
+548,B.6.7,Tension-type headache,Tension headache,Tens Head
+554,B.6.5,Motor neuron disease,Motor neuron disease,ALS
+557,B.6.8,Other neurological disorders,Other neurological,Oth Neuro
+558,B.7,Mental disorders,Mental disorders,Mental
+559,B.7.1,Schizophrenia,Schizophrenia,Schiz
+560,B.7.2,Alcohol use disorders,Alcohol use disorders,Alcohol
+561,B.7.3,Drug use disorders,Drug use disorders,Drugs
+562,B.7.3.1,Opioid use disorders,Opioid use disorders,Opioids
+563,B.7.3.2,Cocaine use disorders,Cocaine use disorders,Cocaine
+564,B.7.3.3,Amphetamine use disorders,Amphetamine use disorders,Amphet
+565,B.7.3.4,Cannabis use disorders,Cannabis use disorders,Cannabis
+566,B.7.3.5,Other drug use disorders,Other drug use disorders,Oth Drug
+567,B.7.4,Depressive disorders,Depressive disorders,Depression
+568,B.7.4.1,Major depressive disorder,Major depression,MDD
+569,B.7.4.2,Dysthymia,Dysthymia,Dysthymia
+570,B.7.5,Bipolar disorder,Bipolar disorder,Bipolar
+571,B.7.6,Anxiety disorders,Anxiety disorders,Anxiety
+572,B.7.7,Eating disorders,Eating disorders,Eating
+573,B.7.7.1,Anorexia nervosa,Anorexia nervosa,Anorexia
+574,B.7.7.2,Bulimia nervosa,Bulimia nervosa,Bulimia
+575,B.7.8,Autistic spectrum disorders,Autistic spectrum,ASD
+576,B.7.8.1,Autism,Autism,Autism
+577,B.7.8.2,Asperger syndrome and other autistic spectrum disorders,Asperger syndrome,Asperger
+578,B.7.9,Attention-deficit/hyperactivity disorder,ADHD,ADHD
+579,B.7.10,Conduct disorder,Conduct disorder,Conduct
+582,B.7.11,Idiopathic developmental intellectual disability,Intellectual disability,ID
+585,B.7.12,Other mental and substance use disorders,Other mental & substance,Oth Ment
+586,B.8,"Diabetes, urogenital, blood, and endocrine diseases",Diabetes/urog/blood/endo,Diab+Urog+Hem
+587,B.8.1,Diabetes mellitus,Diabetes,Diabetes
+588,B.8.2,Acute glomerulonephritis,Acute glomerulonephritis,AGN
+589,B.8.3,Chronic kidney disease,Chronic kidney disease,CKD
+590,B.8.3.1,Chronic kidney disease due to diabetes mellitus,Diabetes CKD,Diab CKD
+591,B.8.3.2,Chronic kidney disease due to hypertension,Hypertensive CKD,HTN CKD
+592,B.8.3.3,Chronic kidney disease due to glomerulonephritis,Glomerulonephritis CKD,GN CKD
+593,B.8.3.4,Chronic kidney disease due to other causes,Other CKD,Oth CKD
+594,B.8.4,Urinary diseases and male infertility,Urinary diseases,Urinary
+595,B.8.4.1,Urinary tract infections,Urinary tract infect,UTI
+596,B.8.4.2,Urolithiasis,Urolithiasis,Urolith
+597,B.8.4.3,Benign prostatic hyperplasia,BPH,BPH
+598,B.8.4.4,Male infertility,Male infertility,Infert M
+602,B.8.4.5,Other urinary diseases,Other urinary diseases,Oth Urin
+603,B.8.5,Gynecological diseases,Gynecological diseases,Gyne
+604,B.8.5.1,Uterine fibroids,Uterine fibroids,Fibroids
+605,B.8.5.2,Polycystic ovarian syndrome,Polycystic ovary syndrome,PCOS
+606,B.8.5.3,Female infertility,Female infertility,Infert F
+607,B.8.5.4,Endometriosis,Endometriosis,Endomet
+608,B.8.5.5,Genital prolapse,Genital prolapse,Prolapse
+609,B.8.5.6,Premenstrual syndrome,Premenstrual syndrome,PMS
+612,B.8.5.7,Other gynecological diseases,Other gynecological,Oth Gyne
+613,B.8.6,Hemoglobinopathies and hemolytic anemias,Hemoglobinopathies,Hemog
+614,B.8.6.1,Thalassemias,Thalassemia,Thalass
+615,B.8.6.3,Sickle cell disorders,Sickle cell,Sickle
+616,B.8.6.5,G6PD deficiency,G6PD deficiency,G6PD
+618,B.8.6.7,Other hemoglobinopathies and hemolytic anemias,Other hemoglobinopathies,Oth Hem
+619,B.8.7,"Endocrine, metabolic, blood, and immune disorders",Endo/metab/blood/immune,Endocrine
+626,B.9,Musculoskeletal disorders,Musculoskeletal disorders,MSK
+627,B.9.1,Rheumatoid arthritis,Rheumatoid arthritis,Rheu Arth
+628,B.9.2,Osteoarthritis,Osteoarthritis,Osteoarth
+629,B.9.3,Low back and neck pain,Low back & neck pain,Back+Neck
+630,B.9.3.1,Low back pain,Low back pain,Back Pain
+631,B.9.3.2,Neck pain,Neck pain,Neck Pain
+632,B.9.4,Gout,Gout,Gout
+639,B.9.5,Other musculoskeletal disorders,Other musculoskeletal,Oth MSK
+640,B.10,Other non-communicable diseases,Other non-communicable,Oth NCD
+641,B.10.1,Congenital birth defects,Congenital defects,Congenital
+642,B.10.1.1,Neural tube defects,Neural tube defects,Neur Tube
+643,B.10.1.2,Congenital heart anomalies,Congenital heart,Cong Heart
+644,B.10.1.3,Orofacial clefts,Orofacial clefts,Cleft
+645,B.10.1.4,Down syndrome,Down syndrome,Down
+646,B.10.1.5,Turner syndrome,Turner syndrome,Turner
+647,B.10.1.6,Klinefelter syndrome,Klinefelter syndrome,Klinefelter
+648,B.10.1.7,Other chromosomal abnormalities,Chromosomal unbalanced,Chrom Unb
+649,B.10.1.8,Congenital musculoskeletal and limb anomalies,Congenital musculoskeletal,Cong MSK
+650,B.10.1.9,Urogenital congenital anomalies,Urogenital congenital,Cong Urogen
+651,B.10.1.10,Digestive congenital anomalies,Digestive cong anomalies,Digest Anom
+652,B.10.1.11,Other congenital birth defects,Other congenital,Oth Cong
+653,B.10.2,Skin and subcutaneous diseases,Skin diseases,Skin
+654,B.10.2.1,Dermatitis,Dermatitis,Dermatitis
+655,B.10.2.2,Psoriasis,Psoriasis,Psoriasis
+656,B.10.2.3,Cellulitis,Cellulitis,Cellulitis
+657,B.10.2.4,Pyoderma,Pyoderma,Pyoderma
+658,B.10.2.5,Scabies,Scabies,Scabies
+659,B.10.2.6,Fungal skin diseases,Fungal skin diseases,Skin Fung
+660,B.10.2.7,Viral skin diseases,Viral skin diseases,Skin Viral
+661,B.10.2.8,Acne vulgaris,Acne vulgaris,Acne
+662,B.10.2.9,Alopecia areata,Alopecia areata,Alopecia
+663,B.10.2.10,Pruritus,Pruritus,Pruritus
+664,B.10.2.11,Urticaria,Urticaria,Urticaria
+665,B.10.2.12,Decubitus ulcer,Decubitus ulcer,Decubitus
+668,B.10.2.13,Other skin and subcutaneous diseases,Other skin diseases,Oth Skin
+669,B.10.3,Sense organ diseases,Sense organ diseases,Sense
+670,B.10.3.1,Glaucoma,Glaucoma,Glaucoma
+671,B.10.3.2,Cataract,Cataract,Cataract
+672,B.10.3.3,Age-related macular degeneration,Age-related macular degeneration,Macular
+673,B.10.3.4,Refraction and accommodation disorders,Refraction & accommodation,Refraction
+674,B.10.3.5,Age-related and other hearing loss,Age-related hearing loss,Hearing
+675,B.10.3.6,Other vision loss,Other vision loss,Oth Vision
+679,B.10.3.7,Other sense organ diseases,Other sense organ,Oth Sense
+680,B.10.4,Oral disorders,Oral disorders,Oral
+681,B.10.4.1,Caries of deciduous teeth,Deciduous caries,Dec Caries
+682,B.10.4.2,Caries of permanent teeth,Permanent caries,Per Caries
+683,B.10.4.3,Periodontal diseases,Periodontal diseases,Period
+684,B.10.4.4,Edentulism and severe tooth loss,Edentulism,Edentul
+685,B.10.4.5,Other oral disorders,Other oral disorders,Other Oral
+686,B.10.5,Sudden infant death syndrome,SIDS,SIDS
+687,C,Injuries,Injuries,Injuries
+688,C.1,Transport injuries,Transport injuries,Trans Inj
+689,C.1.1,Road injuries,Road injuries,Road Inj
+690,C.1.1.1,Pedestrian road injuries,Pedestrian road inj,Pedest
+691,C.1.1.2,Cyclist road injuries,Cyclist road inj,Cyclist
+692,C.1.1.3,Motorcyclist road injuries,Motorcyclist road inj,Mot Cyc
+693,C.1.1.4,Motor vehicle road injuries,Motor vehicle road inj,Mot Veh
+694,C.1.1.5,Other road injuries,Other road inj,Oth Road
+695,C.1.2,Other transport injuries,Other transport inj,Oth Trans
+696,C.2,Unintentional injuries,Unintentional inj,Unint Inj
+697,C.2.1,Falls,Falls,Falls
+698,C.2.2,Drowning,Drowning,Drown
+699,C.2.3,"Fire, heat, and hot substances",Fire & heat,Fire
+700,C.2.4,Poisonings,Poisonings,Poison
+704,C.2.5,Exposure to mechanical forces,Mechanical forces,Mech
+705,C.2.5.1,Unintentional firearm injuries,Unintentional firearm,Mech Gun
+706,C.2.5.2,Unintentional suffocation,Unintentional suffocation,Mech Suff
+707,C.2.5.3,Other exposure to mechanical forces,Other mechanical forces,Oth Mech
+708,C.2.6,Adverse effects of medical treatment,Adverse medical treatment,Med Treat
+709,C.2.7,Animal contact,Animal contact,Animal
+710,C.2.7.1,Venomous animal contact,Venomous animal,Venom
+711,C.2.7.2,Non-venomous animal contact,Non-venomous animal,Non Ven
+712,C.2.8,Foreign body,Foreign body,F Body
+713,C.2.8.1,Pulmonary aspiration and foreign body in airway,Pulmonary aspiration,F Body Asp
+714,C.2.8.2,Foreign body in eyes,Foreign body in eye,F Body Eye
+715,C.2.8.3,Foreign body in other body part,Other foreign body,Oth F Body
+716,C.2.10,Other unintentional injuries,Other unintentional,Oth Unint
+717,C.3,Self-harm and interpersonal violence,Self-harm & violence,Self-harm & IPV
+718,C.3.1,Self-harm,Self-harm,Self Harm
+721,C.3.1.1,Self-harm by firearm,Self-harm by firearm,Self Fire
+723,C.3.1.2,Self-harm by other specified means,Self-harm other means,Self Other
+724,C.3.2,Interpersonal violence,Interpersonal violence,Violence
+725,C.3.2.1,Physical violence by firearm,Violence firearm,Viol Gun
+726,C.3.2.2,Physical violence by sharp object,Violence sharp object,Viol Knife
+727,C.3.2.4,Physical violence by other means,Violence other means,Oth Viol
+728,C.4,"Forces of nature, conflict and terrorism, and executions and police conflict",War & disaster,War+Disaster
+729,C.4.1,Exposure to forces of nature,Nature disaster,Disaster
+740,E,None,None,None
+741,A.4.8,Maternal deaths aggravated by HIV/AIDS,Maternal HIV,Mat HIV
+837,B.8.6.2,Thalassemias trait,Thalassemia trait,Thalass Trait
+838,B.8.6.4,Sickle cell trait,Sickle cell trait,Sickle Trait
+839,B.8.6.6,G6PD trait,G6PD trait,G6PD Trait
+842,C.2.9,Environmental heat and cold exposure,Environ heat and cold,Heat + cold
+843,A.3.17,Ebola,Ebola,Ebola
+845,B.1.28.1,Acute lymphoid leukemia,Acute lymphoid leukemia,ALL
+846,B.1.28.2,Chronic lymphoid leukemia,Chronic lymphoid leukemia,CLL
+847,B.1.28.3,Acute myeloid leukemia,Acute myeloid leukemia,AML
+848,B.1.28.4,Chronic myeloid leukemia,Chronic myeloid leukemia,CML
+849,B.1.13.1,Non-melanoma skin cancer (squamous-cell carcinoma),Skin cancer SCC,SCC
+850,B.1.13.2,Non-melanoma skin cancer (basal-cell carcinoma),Skin cancer BCC,BCC
+854,C.4.2,Executions and police conflict,Execution & police,Exec & Police
+934,A.1.1.1,Drug-susceptible tuberculosis,Drug-susceptible TB,Drug-Sus TB
+935,A.3.18,Zika virus,Zika virus,Zika
+936,A.3.19,Guinea worm disease,Guinea worm,GWD
+938,B.2.5.2,Alcoholic cardiomyopathy,Alcoholic cardiomyopathy,Alcohol CMP
+941,C.3.2.3,Sexual violence,Sexual violence,Sex Viol
+942,B.2.5.1,Myocarditis,Myocarditis,Myocarditis
+943,B.1.28.5,Other leukemia,Other leukemia,Oth Leukemia
+944,B.2.5.3,Other cardiomyopathy,Other cardiomyopathy,Oth CMP
+945,C.4.3,Conflict and terrorism,Conflict & terror,Conflict Terror
+946,A.1.1.2,Multidrug-resistant tuberculosis without extensive drug resistance,MDR-TB without XDR,MDR-TB
+947,A.1.1.3,Extensively drug-resistant tuberculosis,XDR-TB only,XDR-TB
+948,A.1.2.1,HIV-AIDS - Drug-susceptible Tuberculosis,Drug-susceptible HIV/AIDS - TB,Drug-Sus HIV-TB
+949,A.1.2.2,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,MDR-HIV/AIDS-TB without XDR,MDR-HIV-TB
+950,A.1.2.3,HIV/AIDS - Extensively drug-resistant Tuberculosis,XDR HIV/AIDS-TB,XDR-HIV-TB
+954,A.1.1.4,Latent tuberculosis infection,Latent TB infection,LTBI

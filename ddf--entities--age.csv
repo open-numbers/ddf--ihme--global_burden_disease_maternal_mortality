@@ -1,0 +1,47 @@
+age,name,short_name,type
+22,All Ages,All,aggregate
+2,Early Neonatal,EN,specific
+3,Late Neonatal,LN,specific
+4,Post Neonatal,PN,specific
+5,1 to 4,1,specific
+6,5 to 9,5,specific
+155,15 to 60,,specific
+7,10 to 14,10,specific
+8,15 to 19,15,specific
+9,20 to 24,20,specific
+10,25 to 29,25,specific
+11,30 to 34,30,specific
+12,35 to 39,35,specific
+13,40 to 44,40,specific
+14,45 to 49,45,specific
+15,50 to 54,50,specific
+16,55 to 59,55,specific
+17,60 to 64,60,specific
+18,65 to 69,65,specific
+19,70 to 74,70,specific
+20,75 to 79,75,specific
+21,80 plus,80,specific
+30,80 to 84,80,specific
+31,85 to 89,85,specific
+1,Under 5,<5,aggregate
+32,90 to 94,90,specific
+23,5-14 years,5-14,aggregate
+24,15-49 years,15-49,aggregate
+25,50-69 years,50-69,aggregate
+26,70+ years,70+,aggregate
+27,Age-standardized,,aggregate
+158,<20 years,<20,aggregate
+159,10 to 24,10-24,aggregate
+162,10 to 19,,specific
+41,50 to 74 years,50-74,aggregate
+169,10 to 54,,aggregate
+172,0 to 9,0-9,aggregate
+235,95 plus,95+,aggregate
+288,70 to 89 years,70-89,aggregate
+287,65 to 89 years,65-89,aggregate
+286,60 to 89 years,60-89,aggregate
+285,55 to 89 years,55-89,aggregate
+284,20 to 54 years,20-54,aggregate
+28,<1 year,,aggregate
+289,75 to 94 years,75-94,aggregate
+230,60 to 79,60-79,aggregate
